@@ -1,12 +1,12 @@
 # 🎮 Roblox Studio Luau Portfolio
 
-Welcome to my public development portfolio — a collection of modular systems, mechanics, and tools created using **Roblox Studio** and the **Luau** scripting language. This repository showcases the structure, style, and systems I've refined over 4+ years of development experience.
+Welcome to my public development portfolio — a collection of modular systems, mechanics, and tools created using **Roblox Studio** and the **Luau** scripting language. This repository showcases the structure, style, and systems I've refined over 2+ years of development experience.
 
 ---
 
 ## 📌 About
 
-I’m currently working on a solo project in active development. Most examples here are pulled directly or abstracted from systems I use in that project.
+I’m currently working on a small project in active development. Most examples here are pulled directly or abstracted from systems I use in that project.
 
 ---
 
